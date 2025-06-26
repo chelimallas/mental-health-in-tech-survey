@@ -1,4 +1,4 @@
-# mental-health-in-tech-survey
+
 #  Mental Health in Tech - Classification Project
 
 This project analyzes a survey dataset on mental health in the tech workplace. Using machine learning classification techniques, we predict whether a person seeks mental health treatment based on personal, professional, and perception-based attributes.
